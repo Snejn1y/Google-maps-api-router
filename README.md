@@ -36,9 +36,3 @@ This code represents a graphical user interface (GUI) application that allows us
 ## Dependencies
 - Qt framework (minimum version required: [insert version here])
 - Google Maps API key
-
-## Contributors
-- [Insert your name and contact information if applicable]
-
-## License
-[Insert license information here]
